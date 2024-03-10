@@ -1,0 +1,19 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+    :root {
+        --color-bg: #1c1a27;
+        --color-card: #2c2a38;
+        --color-slice: #d1bcff;
+        --color-text: #c2b8d0;
+    }
+
+    [data-theme='light'] {
+        --color-bg: #f2f1f8;
+        --color-card: #fbfaff;
+        --color-slice: #674fa3;
+        --color-text: #5b5469;
+    }
+}
