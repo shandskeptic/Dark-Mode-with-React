@@ -1,4 +1,4 @@
-![Responsive SS](https://github.com/shandskeptic/Dark-Mode-with-React/assets/77574907/abe0d00d-e477-4980-b057-0f1c19a91a8e)
+![darkmodereact](https://github.com/shandskeptic/Dark-Mode-with-React/assets/77574907/a80a3b9a-47aa-423a-b52d-0edfbe338683)
 
 # React + Vite
 
